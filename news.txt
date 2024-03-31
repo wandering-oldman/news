@@ -1,0 +1,103 @@
+
+{ 
+         "name": "ช่องข่าวไทย",
+         "image": "https://i.postimg.cc/Xvttz0gg/news.png",
+         "stations": [ 
+   
+{
+"name": "BBC NEWS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png",
+"url": "https://dookeela.live/live-tv/bbc-news",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
+"referer": "https://dookeela.live/live-tv/bbc-news/"},
+{
+"name": "Voice TV",
+"image": "https://cms.dmpcdn.com/livetv/2023/11/13/bd6a6d20-8205-11ee-822c-6bbb3f82c35b_webp_original.webp",
+"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0032/HLS/V0032.m3u8",
+"info":"[อัพเดท/7/พ.ย/23]",
+"online": "true",
+"referer": "https://www.bahfootball.com/tvonline/play.php?id=V14w2AL9grW6",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"epgId": ""},
+ {
+"name": "Arirang",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",
+"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/HLS/V0177.m3u8",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "embed": "",
+"epgId": "arirang"},  
+{
+"name": "CNA",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",
+"url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
+"epgId": "CNA"},
+
+{
+"name":"CNN CHANNEL",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0lrLhaxQox7JMv7fozFhioDPW_L9Cq8edA&usqp=CAU",
+"url":"https://dookeela.live/live-tv/cnn",
+"referer": "https://dookeela.live/live-tv",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{
+"name":"DW",
+"image":"https://i.imgur.com/1B4XjYf.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121.m3u8",
+"referer": "https://aisplay.ais.co.th/portal/",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{
+"name":"ABCAUSTRALIA",
+"image":"https://i.imgur.com/IEncbNb.png",
+"url":"https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+"referer": "https://dooball66s.com",
+"online": "true",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{
+"name":"Euronews",
+"image":"https://i.imgur.com/ZdbWLVT.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V0119.m3u8",
+"referer": "https://aisplay.ais.co.th/",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{
+"name": "NEWS 1",
+"image": "https://static.thaicom.io/image_channel/images_img_chn_big_Chn_41.png",
+"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/HLS/V0036.m3u8",
+"referer": "https://aisplay.ais.co.th/",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{"name": "TV5 Monde","image": "https://cms.dmpcdn.com/livetv/2023/06/01/c25d7dd0-ffd4-11ed-aaf9-a19119bc3367_webp_320.webp","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/HLS/V0141.m3u8",
+"referer": "https://aisplay.ais.co.th/",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{"name": "NHK","image": "https://www.mncvision.id/userfiles/image/channel/nhk_150.png","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8","referer": "https://aisplay.ais.co.th/",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+{
+"name": "ALJAZEERA","image": "https://www.ilike-movie.com/uploads/png/Al_Jazeera_En.png","url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8?_=1","referer": "https://aisplay.ais.co.th/",
+        "info":"100%",
+"online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+}
+]
